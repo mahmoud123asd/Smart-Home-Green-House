@@ -3,7 +3,7 @@
  
 In this project we utilized multiple sensors to create a smart home
 and a green house, and to control the sensors we used an Arduino
-NANO. The smart home includes a temperature system that uses a
+UNO. The smart home includes a temperature system that uses a
 DHT sensor, a security system that uses a PIR sensor to detect
 movement outside the house, a smart door that only allows entry
 when the correct password is entered, and a smart lighting system
@@ -20,7 +20,7 @@ about the plant is provided on the mobile application
 
 
 Electric Components
-- Arduino NANO, to control the sensors
+- Arduino UNO, to control the sensors
 Smart Home
 - IR sensor (2), for the smart garage
 - Keypad, to enter the password of the smart home
