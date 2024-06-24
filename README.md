@@ -1,5 +1,6 @@
 # Smart-Home-Green-House
-Arduino uno controlled Home &amp; Green house system.
+ Arduino uno controlled Home &amp; Green house system.
+ 
 In this project we utilized multiple sensors to create a smart home
 and a green house, and to control the sensors we used an Arduino
 NANO. The smart home includes a temperature system that uses a
